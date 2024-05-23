@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="files.cpp" />
+    <ClCompile Include="Main menu.cpp" />
+    <ClCompile Include="student.cpp" />
+    <ClCompile Include="prepodavatel.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="files.h" />
+    <ClInclude Include="prepod.h" />
+    <ClInclude Include="student.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="addresses and pointers.txt" />
+    <Text Include="arrays.txt" />
+    <Text Include="cycles.txt" />
+    <Text Include="dynamic memory.txt" />
+    <Text Include="files.txt" />
+    <Text Include="lines.txt" />
+    <Text Include="recursion.txt" />
+    <Text Include="addresses_and_pointers_hex.txt" />
+    <Text Include="arrays_hex.txt" />
+    <Text Include="cycles_hex.txt" />
+    <Text Include="dynamic_memory_hex.txt" />
+    <Text Include="files_hex.txt" />
+    <Text Include="lines_hex.txt" />
+    <Text Include="recursion_hex.txt" />
+    <Text Include="structure_hex.txt" />
+    <Text Include="structure.txt" />
+    <Text Include="students.txt" />
+    <Text Include="test.txt" />
+    <Text Include="LOGIN_FOR_TEACHER.txt" />
+  </ItemGroup>
+</Project>

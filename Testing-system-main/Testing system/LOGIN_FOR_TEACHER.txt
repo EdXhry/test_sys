@@ -1,0 +1,6 @@
+login:s
+password:a
+login:admin
+password:admin
+login:teacher
+password:123456
